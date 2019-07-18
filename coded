@@ -11,6 +11,8 @@ printf("enter value of b;");
 scanf("%d",&b");
 c=a+b;
 d=a-b;
+e=a*b;
 printf("the addition of two number is:"%d",c);
 printf("the difference of two number is:"%d",d);
+printf("the multiplication of two number is;"%d",e);
 }  
