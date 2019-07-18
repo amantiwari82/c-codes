@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main()
+{
+printf("welcome to horizon 2k19");
+printf(my name is aman tiwari)
+printf("lets do simple addition and subtraction code in c);
+int a,b,c,d;
+printf("enter value of a:");
+scanf("%d',&a);
+printf("enter value of b;");
+scanf("%d",&b");
+c=a+b;
+d=a-b;
+printf("the addition of two number is:"%d",c);
+printf("the difference of two number is:"%d",d);
+}  
